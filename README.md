@@ -1,6 +1,9 @@
 # Directional-Stock-Prediction
 Stock market prediction is an important and sensitive issue and this project aims to examine the claim made by recent studies which states that the vast amount of information obtained with the growth of internet has an observable effect on the direction ofmovementofstock.Theinfluenceoffactorslikesentimentand impactofsocialmediaisanalyzedtoverifyifityieldsasignificant boostinpredictionaccuracy.Anaccountingfactorwasdeveloped tomaximizeprofitsandminimizelosses.
 
+![Image](https://github.com/jsubram/DirectionalStockPredictionUsingViralNews/blob/master/Method.png)
+
+
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following packages.
 ```bash
